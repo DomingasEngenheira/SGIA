@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Sistema de Gestão de Igreja</string>
+
+    <string name="atividade">NOSSAS ACTIVIDADES</string>
+    <string name="boas">Bem Vindo ao Sistema de Gestão de Igreja</string>
+    <string name="boas1">CADSTRAR_SE COMO MEMBRO??</string>
+    <string name="title_activity_cadastro2">Cadastro2</string>
+    <string name="texto">Cadastro2</string>
+    <string name="cadastro">CADASTRO</string>
+    <string name="title_activity_cadastro_geral">CadastroGeral</string>
+    <string name="app_name4">SGIgreja</string>
+    <string name="estudo">Temos ensaios aos sabados, Participe no Coral Juvenil, Grupo de Orações de Joves ... </string>
+    <string name="estudomulher">Grupo de Mulheres, terça temos projecto Ana, venha orar connosco ...</string>
+    <string name="estudofe">Temos Culto de Oração para fortalecer a sua fé, Entregar os fardos ...</string>
+    <string name="estudofe1">Grupo de Mulheres, terça temos projecto Ana, apartir das 14 horas na Congregação da Ilha, venha e ore pelos seus propositos</string>
+
+    <string name="atividade2">NOSSAS ACTIVIDADES</string>
+    <string name="boas12">Bem Vindo ao Sistema de Gestão de Igreja</string>
+    <string name="boas11">CADSTRAR_SE COMO MEMBRO??</string>
+    <string name="title_activity_cadastro22">Cadastro2</string>
+    <string name="texto1">Cadastro2</string>
+    <string name="cadastro1">CADASTRO</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="estudo1">Temos estudo biblico, aos domingos, apartir das 7:30 na escola
+        biblica dominical. Saiba mais... </string>
+    <string name="estudo2"> A IECA - Igreja Evangélica Congregacional
+        em Angola foi reconhecida pelo Governo Angolano aos 24 de Janero de 1987,
+        sob o Decreto Executivo nº 9/87 e sob o Registo nº 1 de 24 de Outubro de 2005 do Ministério da Justiça.
+        Entretanto foi fundada, aos 11 de Novembro de 1880, data que
+        marca a chegada dos seus primeiros missionários americanos, na antiga Ponte Cais de Benguela.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="agenda">Agenda dos Próximos 30 dias</string>
+    <string name="culto">Culto Quinta Feira</string>
+    <string name="oracao">Culto de Oração</string>
+    <string name="dia">12 de Novembro de 2018</string>
+    <string name="dia1">13 de Novembro de 2018</string>
+    <string name="curso">Treinamento para Líderes</string>
+    <string name="IECa">IECA</string>
+    <string name="IECa1">Igreja Evangélica Congregacional em Angola</string>
+    <string name="IECa2">Congregacional Em Angola</string>
+    <string name="title_activity_cadastro_filiais">CadastroFiliais</string>
+
+
+</resources>

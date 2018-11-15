@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "187807626175",
+    "firebase_url": "https://sistemagestaoieca.firebaseio.com",
+    "project_id": "sistemagestaoieca",
+    "storage_bucket": "sistemagestaoieca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187807626175:android:2d3d3c065e7465a4",
+        "android_client_info": {
+          "package_name": "com.example.domingas.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187807626175-tdo0mq7jagh1loep2bidvps4j14i19gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.domingas.teste",
+            "certificate_hash": "5c7bdd00d12eda84db1cd78355cadbcebb5268d4"
+          }
+        },
+        {
+          "client_id": "187807626175-gv47ftegjl2nj7tprss24tp8i36lrtbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4fTrDA4qouo9Cp6ZwuADM7N582nMKNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187807626175-gv47ftegjl2nj7tprss24tp8i36lrtbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
