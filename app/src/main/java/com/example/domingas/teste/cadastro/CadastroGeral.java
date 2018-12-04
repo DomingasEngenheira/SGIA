@@ -26,6 +26,7 @@ public class CadastroGeral extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(CadastroGeral.this, CadastroMembro.class);
                 startActivity(i);
+                finish();
             }
         });
 
@@ -34,17 +35,19 @@ public class CadastroGeral extends AppCompatActivity {
             public void onClick(View view) {
                 Intent a = new Intent(CadastroGeral.this, CadastroCoro.class);
                 startActivity(a);
+
+
             }
         });
 
 
-
-        /*btnDireccao.setOnClickListener(new View.OnClickListener() {
+/*
+        btnDireccao.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent d = new Intent(CadastroGeral.this, CadastroCoro.class);
+                Intent d = new Intent(CadastroGeral.this, CadastroDireccao.class);
             }
-        });*/
+        });
 
         btnIgreja.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,7 +57,7 @@ public class CadastroGeral extends AppCompatActivity {
                 finish();
             }
         });
-
+*/
         }
 
 
